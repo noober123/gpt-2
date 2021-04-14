@@ -1,3 +1,8 @@
+## Download the models first
+```
+python3 download_model.py <model_name> where model_name can be one of {124M, 355M, 774M}
+```
+
 ## Fine tuning on custom datasets
 
 Reference:  ["Beginner’s Guide to Retrain GPT-2 (117M) to Generate Custom Text Content"](https://medium.com/@ngwaifoong92/beginners-guide-to-retrain-gpt-2-117m-to-generate-custom-text-content-8bb5363d8b7f)
